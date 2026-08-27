@@ -28,4 +28,5 @@
 
 ```
 m = "music is great"
+print(m)
 ```

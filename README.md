@@ -32,5 +32,5 @@ m = "music is great"
 print(m)
 ```
 
-**Image will take you to DESTIN CONRAD "ROADRUNNER" album picture**
-![ROADRUNNER](<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2e487196-a12c-4ba1-8517-ac90baac4edd" />)
+**Image will take you to DESTIN CONRAD "wHIMSY" album picture**
+![wHIMSY]()

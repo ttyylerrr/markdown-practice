@@ -25,3 +25,7 @@
 | SZA | | Alternative R&B| Supermodel |
 
 [Link to DESTIN CONRAD "MAKE IT UP"](https://youtu.be/J7dUWMil_pE?si=-cEiFGbErrI2_F0L)
+
+```
+m = "music is great"
+```

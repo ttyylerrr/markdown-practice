@@ -1,6 +1,7 @@
 # My Music
 
 # Why I like music
+I think I just feel a good connection to what I listen to
 
 ## Music 
 ### What do I like about music?

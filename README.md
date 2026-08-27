@@ -6,8 +6,10 @@
 ### What do I like about music?
 - The Genre
 - The way it sounds
-- Maybe lyrics if relatable 
+- Maybe lyrics if relatable
+
 ** Example of Artists & Songs**
+
   1. *Mariah the Scientist*
      1. Reminders
      2. Good Times

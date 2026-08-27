@@ -8,7 +8,7 @@
 - The way it sounds
 - Maybe lyrics if relatable
 
-** Example of Artists & Songs**
+**Example of Artists & Songs**
 
   1. *Mariah the Scientist*
      1. Reminders

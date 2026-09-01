@@ -23,7 +23,7 @@ I think I just feel a good connection to what I listen to
 |------|------|--------------|
 |DESTIN CONRAD| Alternative R&B | MAKE IT UP | 
 |Summer Walker| R&B | You Don't Know Me |
-| SZA | | Alternative R&B| Supermodel |
+| SZA | Alternative R&B| Supermodel |
 
 [Link to DESTIN CONRAD "MAKE IT UP"](https://youtu.be/J7dUWMil_pE?si=-cEiFGbErrI2_F0L)
 
